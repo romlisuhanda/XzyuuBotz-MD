@@ -78,7 +78,7 @@ const simple = require('./lib/simple.js')
     let scommand = JSON.parse(fs.readFileSync("./database/scommand.json"));
     
     //--media--//
-    let thumb = fs.readFileSync("./thumb.jpg");
+    let thumb = fs.readFileSync("./IMG-20220606-WA0184.jpg");
 
     //--Setting--//
 
